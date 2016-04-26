@@ -1,7 +1,8 @@
 #热更
 
 ## 引出
-test¹
+test<sub>[1]</sub>
+test<sup>[1]</sup>
 ## 资源热更
 
 ## 代码热更
